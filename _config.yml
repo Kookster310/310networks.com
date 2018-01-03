@@ -1,0 +1,18 @@
+# Site settings
+title: Daniel Ryan, NET.DEV.OPS Engineer
+description: About Daniel Ryan
+
+# User settings
+username: Daniel Ryan
+user_description: Grew up in Southbay of Los Angeles, I've always been intrigued with space and technology. Love Star Trek and most anything to do with computers and emerging technologies. Began in the field as an Linux administrator, and worked my way up through roles. I now call myself a NET.DEV.OPS Engineer, as I have background in all three. As the layers begin to merge, I continue to learn and engage to be proficient across them all.
+user_title: Tech and Space Kook
+email: daniel.ryan@310networks.com
+github_username: kookster310
+twitter_username:  r3lik
+linkedin_username: daniel-ryan-310
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src', 'node_modules']
