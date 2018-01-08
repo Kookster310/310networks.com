@@ -19,11 +19,6 @@ I also enjoy the great universe that is Star Trek. If you ever want to get a Rol
 * Automation and Monitoring of All the Above
 * STAR TREK!
 
-{% capture images %}
-    https://raw.githubusercontent.com/Kookster310/kookster310.github.io/master/assets/img/ansible-example-gif.gif
-{% endcapture %}
-{% include gallery images=images caption="" cols=1 %}
-
 ## What I&#39;m Up To
 
 [Checkout My Current Projects](/projects){: .btn}
