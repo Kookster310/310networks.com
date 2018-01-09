@@ -7,10 +7,7 @@ comments: false
 ---
     
 <center>Hello! My name is <a href="https://www.linkedin.com/in/daniel-ryan-310/"><b>Daniel</b></a> and I am a NET.DEV.OPS Engineer that enjoys making things!</center>
-<center>{% capture images %}
-    https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13900074_10155195765629478_6481708263995777588_n.jpg?oh=999dad8451daf482d537b65981b1f91b&oe=5ABB4E0A
-{% endcapture %}
-{% include gallery images=images caption="" cols=1 %}</center>
+<img src="https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13900074_10155195765629478_6481708263995777588_n.jpg?oh=999dad8451daf482d537b65981b1f91b&oe=5ABB4E0A" alt="Tokyo" width="500" height="600">
 
 I&#39;ve always been a nerd at heart. I grew up in the Southbay of Los Angeles, spent some time up north in Chico, then made my way back down to socal. I&#39;ve always enjoyed things re: tech. I have a 3D printer that I built and love tinkering with. This along with the many Raspberry Pis, Odroids, and servers I play with give me ample opportunity to learn new things.
 I spent the last 7 years working in the tech industry. I have experience working and running an Operations Center, along with hands on Linux, Unix, Development and Networking experience. I&#39;ve worked in startup environments requiring many hats, and in more corporate environments with more definied roles.
