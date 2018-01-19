@@ -6,7 +6,7 @@ comments: false
 ---
 
 
-<center><a href="https://www.linkedin.com/in/daniel-ryan-310/"><b>Ansible Full Deployments</b></a></center>
-<img src="https://raw.githubusercontent.com/Kookster310/kookster310.github.io/master/assets/img/ansible-example-gif.gif" alt="Ansible-Example"> 
+<a href="/projects/ansible/index.md"><b>Ansible Full Deployments</b></a>
+<img src="https://raw.githubusercontent.com/Kookster310/kookster310.github.io/master/assets/img/ansible-example-gif.gif" alt="Ansible-Example" height="200" width="300"> 
 
 Testing!
