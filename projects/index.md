@@ -6,8 +6,8 @@ comments: false
 ---
 
 <center><a href="/projects/ansible/index.md"><b>Ansible Full Deployments</b></a></center>
-<img src="https://raw.githubusercontent.com/Kookster310/kookster310.github.io/master/assets/img/ansible-example-gif.gif" alt="Ansible-Example" style="width:400px;height:300px;"> 
-<center>Deploying full Unix and Linux nodes for a variety of projects.</center>
+<img src="https://raw.githubusercontent.com/Kookster310/kookster310.github.io/master/assets/img/ansible-example-gif.gif" alt="Ansible-Example" style="width:500px;height:300px;"> 
+<center>Deploying full Unix and Linux nodes automatically using Ansible	 for a variety of projects.</center>
 <br>
 <br>
 <br>
