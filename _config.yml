@@ -2,16 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url: http://www.310networks.com
+title: Daniel Ryan
+email: daniel.ryan@310networks.com
+author: Daniel Ryan
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+  My name is Daniel Ryan and I like making and playing with things.
+#copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+#credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,9 +24,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
+  - title: email
+    url: mailto:daniel.ryan@310networks.com
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/Kookster310/
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/daniel-ryan-310/
