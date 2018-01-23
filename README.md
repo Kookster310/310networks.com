@@ -16,7 +16,7 @@ title: Project Title
 The description of the project
 ```
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/Kookster310/kookster310./master/img/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/Kookster310/kookster310.github.io/raw/master/img/screenshot.png)
 
 ## Check Out The Website
 You can visit my website [here](http://www.310networks.com) 
