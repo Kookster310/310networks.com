@@ -5,7 +5,6 @@ excerpt: "A List of Projects"
 comments: false
 ---
 
-
 <center><a href="/projects/ansible/index.md"><b>Ansible Full Deployments</b></a></center>
 <img src="https://raw.githubusercontent.com/Kookster310/kookster310.github.io/master/assets/img/ansible-example-gif.gif" alt="Ansible-Example" style="width:400px;height:300px;"> 
 Deploying full Unix and Linux nodes for a variety of projects.
@@ -28,5 +27,5 @@ Placeholder Text
 <br>
 <br>
 <center><a href="/projects/3dprinting/index.md"><b>3D Printing</b></a></center>
-<img src="https://raw.githubusercontent.com/Kookster310/kookster310.github.io/master/assets/img/3d-printer.jpg" alt="3D Printer">
+<img src="https://raw.githubusercontent.com/Kookster310/kookster310.github.io/master/assets/img/3d-printer.jpg" alt="3D Printer" style="width:200px;height:300px;">
 Built a 3D printer
