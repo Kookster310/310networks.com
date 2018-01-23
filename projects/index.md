@@ -27,5 +27,5 @@ Placeholder Text
 <br>
 <br>
 <center><a href="/projects/3dprinting/index.md"><b>3D Printing</b></a></center>
-<img src="https://raw.githubusercontent.com/Kookster310/kookster310.github.io/master/assets/img/3d-printer.jpg" alt="3D Printer" style="width:200px;height:300px;">
+<img src="https://raw.githubusercontent.com/Kookster310/kookster310.github.io/master/assets/img/3d-printer.jpg" alt="3D Printer" style="width:230px;height:320px;">
 Built a 3D printer
