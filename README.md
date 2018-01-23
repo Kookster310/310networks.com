@@ -1,35 +1,26 @@
-# Landing Page Jekyll theme
+# 310 Networks Website
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+Jekyll theme for www.310networks.com based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
-## How to use
- - Place a image in `/img/services/`
- - Create posts to display your services. Use the follow as an example:
+## Projects
+ - Place an image in `/img/services/`
+ - Create posts to display your projects. Use the follow as an example:
 
 ```txt
 ---
 layout: default
-img: ipad.png
+img: example.gif
 category: Services
-title: The service title
+title: Project Title
 ---
-The description of this service
+The description of the project
 ```
-
-## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
-
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/Kookster310/kookster310./master/img/screenshot.png)
+
+## Check Out The Website
+You can visit my website [here](http://www.310networks.com) 
 
 ===
 
 For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
-
-## License
-The contents of this repository are licensed under the [Apache
-2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
-
-## Version
-1.0.1
