@@ -7,6 +7,6 @@ comments: false
 
 
 <a href="/projects/ansible/index.md"><b>Ansible Full Deployments</b></a>
-<img src="https://raw.githubusercontent.com/Kookster310/kookster310.github.io/master/assets/img/ansible-example-gif.gif" alt="Ansible-Example"> 
+<img src="https://raw.githubusercontent.com/Kookster310/kookster310.github.io/master/assets/img/ansible-example-gif.gif" alt="Ansible-Example" height=200 width=300> 
 
 Testing!
